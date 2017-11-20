@@ -1,5 +1,7 @@
 ## Services Engineering Reading List
 
+http://dancres.github.io/Pages/
+
 A reading list for services engineering, with a focus on cloud
 infrastructure services.
 
